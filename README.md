@@ -20,7 +20,7 @@ Including:
 
  ## 🚀 Learning Tips:
 
- - For Learning to implement the  rxjava & retrofit in MVP architecture to the follow below steps:
+  For Learning to implement the  rxjava & retrofit in MVP architecture to the follow below steps:
  - First create Model class and it is used for parsing server response with the help of third party library like gson.
  - Create Presenter class, it is used for communication between Model & View with the help of interfaces.
  - In Presenter class, written your main logic like networking API call with the help of rxjava for fetching data from server.
